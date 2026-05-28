@@ -1,7 +1,7 @@
 # Smart Hub – Student Portfolio & Certificate Verification Platform
 
 ## Project Overview
-Smart Hub is a UI/UX-based academic management and certificate verification platform designed for students and faculty.
+Smart Hub is a UI/UX-based academic management ecosystem and certificate verification platform designed for students and faculty.
 
 The platform allows students to upload certificates, manage academic activities, and maintain a verified digital portfolio while enabling faculty members to authenticate and validate records through an integrated approval system.
 
@@ -35,7 +35,7 @@ The project was inspired by the concept of DigiLocker and focuses on improving a
 
 ---
 
-## Tools and ideas Used
+## Tools and Concepts Used
 - Figma
 - UI/UX Design Principles
 - Dashboard Layout Design
